@@ -10,8 +10,6 @@ desenvolvido em Java para a disciplina de Compiladores — CEUB/FATECS.
 
 ## Estrutura dos arquivos
 
-## Estrutura dos arquivos
-
 ```
 compilador-lps1/
 ├── compiladores/
