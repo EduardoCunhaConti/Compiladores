@@ -1,0 +1,4 @@
+G a
+G b
++ c a b
+P c

@@ -1,0 +1,6 @@
+G a
+G b
+- c a b
+/ d a b
+P c
+P d

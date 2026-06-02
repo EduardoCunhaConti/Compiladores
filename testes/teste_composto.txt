@@ -1,0 +1,10 @@
+G a
+G b
+{
+  * c a b
+  + d c a
+  - e d b
+  P c
+  P d
+  P e
+}

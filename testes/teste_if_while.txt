@@ -1,0 +1,7 @@
+G n
+= i 0
+W i < n {
+  % r i 2
+  I r = 0 P i
+  + i i 1
+}
