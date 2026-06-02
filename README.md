@@ -1,7 +1,7 @@
 # Compilador LPS1
 
 Compilador para a linguagem LPS1 (Linguagem de Programação Simples 1),
-desenvolvido em Java para a disciplina de Compiladores — CEUB/FATECS.
+desenvolvido em Java para a disciplina de Compiladores — CEUB.
 
 ## Requisitos
 
