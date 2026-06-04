@@ -1,0 +1,12 @@
+# Bytecode Java
+*.class
+
+# Arquivos gerados pelo compilador LPS1
+saida.c
+saida_*.c
+
+# Arquivos gerados pelo gcc no Windows
+*.exe
+*.obj
+*.ilk
+*.pdb
